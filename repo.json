@@ -199,14 +199,22 @@
       "IconUrl": "https://raw.githubusercontent.com/chunghyang/DalamudPluginsD17/main/stable/DamageInfoPlugin/images/icon.png"
     },
     {
-      "Author": "goat",
-      "Name": "Discord Rich Presence",
-      "InternalName": "Dalamud.RichPresence",
-      "Punchline": "자신의 현재 지역, 잡, 레벨, 이름, 서버등을 디스코드 정보에 표시",
-      "Description": "자신의 캐릭터의 현재 지역, 잡, 레벨, 이름, 서버 등 자세한 정보를 디스코드 활동정보에 실시간으로 표시합니다.\n공개하지 않은 정보가 있다면 반드시 설정에서 표시항목을 변경해주세요!",
-      "AssemblyVersion": "2.0.1.0",
-      "TestingAssemblyVersion": "2.0.1.0",
-      "RepoUrl": "https://github.com/goaaats/Dalamud.RichPresence",
+      "Author": "Kouzukii",
+      "Name": "Death Recap",
+      "InternalName": "DeathRecap",
+      "Punchline": "빠르게 자신이나 파티원의 사망원인 확인",
+      "Description": "빠르게 자신이나 파티원이 어떠한 원인으로 인해 사망했는지 알아보세요. \n\n표시항목:\n- 치유\n- 받은 피해\n- 디버프\n- 버프",
+      "AssemblyVersion": "1.9.0.0",
+      "TestingAssemblyVersion": "1.9.0.0",
+      "RepoUrl": "https://github.com/Kouzukii/ffxiv-deathrecap",
+      "Tags": [
+        "death",
+        "recap",
+        "log"
+      ],
+      "CategoryTags": [
+        "utility"
+      ],
       "ApplicableVersion": "any",
       "DalamudApiLevel": 7,
       "IsHide": "False",
@@ -216,10 +224,10 @@
       "LoadPriority": 0,
       "LoadRequiredState": 2,
       "LoadSync": true,
-      "DownloadLinkInstall": "https://github.com/chunghyang/DalamudPluginsD17/raw/main/stable/Dalamud.RichPresence/latest.zip",
-      "DownloadLinkTesting": "https://github.com/chunghyang/DalamudPluginsD17/raw/main/stable/Dalamud.RichPresence/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/chunghyang/DalamudPluginsD17/raw/main/stable/Dalamud.RichPresence/latest.zip",
-      "IconUrl": "https://raw.githubusercontent.com/chunghyang/DalamudPluginsD17/main/stable/Dalamud.RichPresence/images/icon.png"
+      "DownloadLinkInstall": "https://github.com/chunghyang/DalamudPluginsD17/raw/main/stable/DeathRecap/latest.zip",
+      "DownloadLinkTesting": "https://github.com/chunghyang/DalamudPluginsD17/raw/main/stable/DeathRecap/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/chunghyang/DalamudPluginsD17/raw/main/stable/DeathRecap/latest.zip",
+      "IconUrl": "https://raw.githubusercontent.com/chunghyang/DalamudPluginsD17/main/stable/DeathRecap/images/icon.png"
     },
     {
       "Author": "goat",
