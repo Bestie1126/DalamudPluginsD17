@@ -62,6 +62,34 @@
         "IconUrl": "https://raw.githubusercontent.com/chunghyang/DalamudPluginsD17/main/stable/ActionTimeline/images/icon.png"
     },
     {
+      "Author": "Helios",
+      "Name": "Adaptive Hud",
+      "Description": "전체화면/창화면 사이 전환 시, HUD들의 위치 비율을 자동으로 조절하세요! 울트라 와이드 모니터 소유자에게 적합합니다.",
+      "Punchline": "해상도에 따른 HUD비율 자동조정",
+      "InternalName": "AdaptiveHud",
+      "AssemblyVersion": "1.0.6.0",
+      "TestingAssemblyVersion": "1.0.6.0",
+      "RepoUrl": "https://github.com/Helios747/AdaptiveHudPlugin",
+      "Tags": [
+        "hudlayout",
+        "hud",
+        "settings"
+      ],
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 7,
+      "IsHide": "False",
+      "IsTestingExclusive": "False",
+      "DownloadCount": 0,
+      "LastUpdate": 0,
+      "LoadPriority": 0,
+      "LoadRequiredState": 2,
+      "LoadSync": true,
+      "DownloadLinkInstall": "https://github.com/chunghyang/DalamudPluginsD17/raw/main/stable/AdaptiveHudPlugin/latest.zip",
+      "DownloadLinkTesting": "https://github.com/chunghyang/DalamudPluginsD17/raw/main/stable/AdaptiveHudPlugin/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/chunghyang/DalamudPluginsD17/raw/main/stable/AdaptiveHudPlugin/latest.zip",
+      "IconUrl": "https://raw.githubusercontent.com/chunghyang/DalamudPluginsD17/main/stable/AdaptiveHudPlugin/images/icon.png"
+    },
+    {
       "Author": "Caraxi",
       "Name": "Simple Tweaks Plugin",
       "InternalName": "SimpleTweaksPlugin",
