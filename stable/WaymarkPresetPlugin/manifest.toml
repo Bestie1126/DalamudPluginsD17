@@ -1,10 +1,10 @@
 [plugin]
 repository = "https://github.com/PunishedPineapple/WaymarkPresetPlugin.git"
-commit = "04bc1cd116ee58e9dcf11667c6303d9d96da129c"
+commit = "11764af8708ee67e5a78e475cc09d95af9b0a2ee"
 owners = [
     "PunishedPineapple",
 ]
 project_path = "WaymarkPresetPlugin"
 changelog = '''
-- Fixes an issue where the configuration window would expand indefinitely with certain Dalamud font settings.
+- Fixes layout issues that could make the editor unusable at some non-standard font scales and/or with languages other than English.
 '''

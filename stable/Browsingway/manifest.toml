@@ -1,13 +1,5 @@
 [plugin]
 repository = "https://github.com/Styr1x/Browsingway.git"
-commit = "479879ced79626cea97df9da3ca8a453e91701e9"
+commit = "dbe5d81345367e2a5fefa9393f802aa72fcf4c21"
 owners = ["Styr1x"]
 project_path = "Browsingway"
-changelog = """\
-- Add 'Disabled' option
-- Add 'Mute' option
-- Add 'ACT optimizations' option (disables overlay when ACT is not running)
-- Fix keyboard input and focus handling
-- Update Chromium to 108.0.5359.125
-- API 8 support
-"""
