@@ -60,5 +60,31 @@
         "DownloadLinkTesting": "https://github.com/chunghyang/DalamudPluginsD17/raw/main/stable/ActionTimeline/latest.zip",
         "DownloadLinkUpdate": "https://github.com/chunghyang/DalamudPluginsD17/raw/main/stable/ActionTimeline/latest.zip",
         "IconUrl": "https://raw.githubusercontent.com/chunghyang/DalamudPluginsD17/main/stable/ActionTimeline/images/icon.png"
-    }
+    },
+    {
+      "Author": "Caraxi",
+      "Name": "Simple Tweaks Plugin",
+      "InternalName": "SimpleTweaksPlugin",
+      "Description": "삶의 질을 높여줄 트윅들. UI나 그 외 경험에 있어서 만족스럽게 개선해드립니다.",
+      "Punchline": "너무나 당연해야 했던 것들...",
+      "AssemblyVersion": "1.7.9.1",
+      "TestingAssemblyVersion": "1.7.9.1",
+      "RepoUrl": "https://github.com/Caraxi/SimpleTweaksPlugin",
+      "Tags": [
+          "UI"
+        ],
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 7,
+      "IsHide": "False",
+      "IsTestingExclusive": "False",
+      "DownloadCount": 0,
+      "LastUpdate": 0,
+      "LoadPriority": 0,
+      "LoadRequiredState": 2,
+      "LoadSync": true,
+      "DownloadLinkInstall": "https://github.com/chunghyang/DalamudPluginsD17/raw/main/stable/SimpleTweaksPlugin/latest.zip",
+      "DownloadLinkTesting": "https://github.com/chunghyang/DalamudPluginsD17/raw/main/stable/SimpleTweaksPlugin/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/chunghyang/DalamudPluginsD17/raw/main/stable/SimpleTweaksPlugin/latest.zip",
+      "IconUrl": "https://raw.githubusercontent.com/chunghyang/DalamudPluginsD17/main/stable/SimpleTweaksPlugin/images/icon.png"
+  }
 ]
