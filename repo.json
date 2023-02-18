@@ -84,10 +84,10 @@
       "LoadPriority": 0,
       "LoadRequiredState": 2,
       "LoadSync": true,
-      "DownloadLinkInstall": "https://github.com/chunghyang/DalamudPluginsD17/raw/main/stable/AdaptiveHudPlugin/latest.zip",
-      "DownloadLinkTesting": "https://github.com/chunghyang/DalamudPluginsD17/raw/main/stable/AdaptiveHudPlugin/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/chunghyang/DalamudPluginsD17/raw/main/stable/AdaptiveHudPlugin/latest.zip",
-      "IconUrl": "https://raw.githubusercontent.com/chunghyang/DalamudPluginsD17/main/stable/AdaptiveHudPlugin/images/icon.png"
+      "DownloadLinkInstall": "https://github.com/chunghyang/DalamudPluginsD17/raw/main/stable/AdaptiveHud/latest.zip",
+      "DownloadLinkTesting": "https://github.com/chunghyang/DalamudPluginsD17/raw/main/stable/AdaptiveHud/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/chunghyang/DalamudPluginsD17/raw/main/stable/AdaptiveHud/latest.zip",
+      "IconUrl": "https://raw.githubusercontent.com/chunghyang/DalamudPluginsD17/main/stable/AdaptiveHud/images/icon.png"
     },
     {
       "Author": "Caraxi",
