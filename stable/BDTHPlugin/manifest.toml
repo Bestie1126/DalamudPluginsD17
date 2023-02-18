@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/LeonBlade/BDTHPlugin.git"
+commit = "538da1b761dd9c5df9fdcbd34e1829700d440948"
+owners = ["LeonBlade"]
+project_path = "/BDTHPlugin"
