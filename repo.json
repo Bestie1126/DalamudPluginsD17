@@ -988,4 +988,27 @@
       "DownloadLinkUpdate": "https://github.com/chunghyang/DalamudPluginsD17/raw/main/stable/SimpleTweaksPlugin/latest.zip",
       "IconUrl": "https://raw.githubusercontent.com/chunghyang/DalamudPluginsD17/main/stable/SimpleTweaksPlugin/images/icon.png"
   }
+  {
+      "Author": "Marconsou",
+      "Name": "MP Tick Bar",
+      "Description": "-Fast Fire III marker on the bar.\n-Autostarts the bar before combat starts.\n-Countdown with time offset.\n-Compatible with FFXIV Material UI.",
+      "Punchline": "Visually tracks MP regeneration ticks (Black Mage only).",
+      "InternalName": "MPTickBar",
+      "AssemblyVersion": "1.4.1.4",
+      "TestingAssemblyVersion": "1.4.1.4",
+      "RepoUrl": "https://github.com/marconsou/mp-tick-bar",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 7,
+      "IsHide": "False",
+      "IsTestingExclusive": "False",
+      "DownloadCount": 0,
+      "LastUpdate": 0,
+      "LoadPriority": 0,
+      "LoadRequiredState": 2,
+      "LoadSync": true,
+      "DownloadLinkInstall": "https://github.com/chunghyang/DalamudPluginsD17/raw/main/stable/MPTickBar/latest.zip",
+      "DownloadLinkTesting": "https://github.com/chunghyang/DalamudPluginsD17/raw/main/stable/MPTickBar/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/chunghyang/DalamudPluginsD17/raw/main/stable/MPTickBar/latest.zip",
+      "IconUrl": "https://raw.githubusercontent.com/chunghyang/DalamudPluginsD17/main/stable/MPTickBar/images/icon.png"
+  }
 ]
